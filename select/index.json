@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "救済のÉnde",
+  "base_artist": "天音かなた",
+  "createdAt": "2026-01-06T06:10:07.331123Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "救済のÉnde",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_救済のÉnde_天音かなた.txt"
+    }
+  ]
+}
